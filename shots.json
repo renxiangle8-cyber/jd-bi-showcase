@@ -1,0 +1,142 @@
+[
+  {
+    "id": "overview-light",
+    "page": "overview",
+    "title": "经营看板",
+    "category": "看板",
+    "src": "shots/overview-light.jpg"
+  },
+  {
+    "id": "overview-dark",
+    "page": "overview",
+    "title": "经营看板 · 深色",
+    "category": "深色",
+    "src": "shots/overview-dark.jpg"
+  },
+  {
+    "id": "cockpit-light",
+    "page": "cockpit",
+    "title": "运营驾驶舱",
+    "category": "看板",
+    "src": "shots/cockpit-light.jpg"
+  },
+  {
+    "id": "boards-light",
+    "page": "boards",
+    "title": "我的看板",
+    "category": "看板",
+    "src": "shots/boards-light.jpg"
+  },
+  {
+    "id": "assistant-light",
+    "page": "assistant",
+    "title": "连续问答",
+    "category": "助手",
+    "src": "shots/assistant-light.jpg"
+  },
+  {
+    "id": "assistant-dark",
+    "page": "assistant",
+    "title": "连续问答 · 深色",
+    "category": "深色",
+    "src": "shots/assistant-dark.jpg"
+  },
+  {
+    "id": "analysis-light",
+    "page": "analysis",
+    "title": "SKU 与自由分析",
+    "category": "分析",
+    "src": "shots/analysis-light.jpg"
+  },
+  {
+    "id": "analysis-dark",
+    "page": "analysis",
+    "title": "SKU 与自由分析 · 深色",
+    "category": "深色",
+    "src": "shots/analysis-dark.jpg"
+  },
+  {
+    "id": "traffic-light",
+    "page": "traffic",
+    "title": "流量来源",
+    "category": "分析",
+    "src": "shots/traffic-light.jpg"
+  },
+  {
+    "id": "keywords-light",
+    "page": "keywords",
+    "title": "关键词分析",
+    "category": "分析",
+    "src": "shots/keywords-light.jpg"
+  },
+  {
+    "id": "monitor-light",
+    "page": "monitor",
+    "title": "问题中心",
+    "category": "监控",
+    "src": "shots/monitor-light.jpg"
+  },
+  {
+    "id": "monitor-dark",
+    "page": "monitor",
+    "title": "问题中心 · 深色",
+    "category": "深色",
+    "src": "shots/monitor-dark.jpg"
+  },
+  {
+    "id": "rules-light",
+    "page": "rules",
+    "title": "预警规则",
+    "category": "监控",
+    "src": "shots/rules-light.jpg"
+  },
+  {
+    "id": "targets-light",
+    "page": "targets",
+    "title": "目标进度",
+    "category": "监控",
+    "src": "shots/targets-light.jpg"
+  },
+  {
+    "id": "todos-light",
+    "page": "todos",
+    "title": "待办与复查",
+    "category": "监控",
+    "src": "shots/todos-light.jpg"
+  },
+  {
+    "id": "finance-light",
+    "page": "finance",
+    "title": "成本与利润",
+    "category": "分析",
+    "src": "shots/finance-light.jpg"
+  },
+  {
+    "id": "dingtalk-light",
+    "page": "dingtalk",
+    "title": "钉钉简报",
+    "category": "集成",
+    "src": "shots/dingtalk-light.jpg"
+  },
+  {
+    "id": "schedules-light",
+    "page": "schedules",
+    "title": "定时任务",
+    "category": "集成",
+    "src": "shots/schedules-light.jpg"
+  },
+  {
+    "id": "settings-light",
+    "page": "settings",
+    "title": "模型与通知设置",
+    "category": "集成",
+    "src": "shots/settings-light.jpg"
+  },
+  {
+    "id": "exports-light",
+    "page": "exports",
+    "title": "导出中心",
+    "category": "分析",
+    "src": "shots/exports-light.jpg"
+  }
+]

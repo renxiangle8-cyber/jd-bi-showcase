@@ -1,0 +1,7414 @@
+{
+  "notice": "脱敏演示数据：来源于固定真实快照，主体、金额与日期已转换；不代表实际经营表现。",
+  "dashboard": {
+    "filters": {
+      "period": "7d",
+      "brand": "",
+      "sku": ""
+    },
+    "summary": {
+      "aov": null,
+      "buyers": null,
+      "conversion": null,
+      "gmv": 356216.01,
+      "gmv_available_count": 78,
+      "gmv_change": -0.047707190768104694,
+      "gmv_delta": -17845.42,
+      "previous_gmv": 374061.43,
+      "risk_sku_count": 5,
+      "sales_sku_count": 63,
+      "sku_count": 208,
+      "visitors": null
+    },
+    "brands": [
+      {
+        "brand": "品牌青禾",
+        "gmv": 251472.23,
+        "previous_gmv": 261410.41,
+        "gmv_delta": -9938.18,
+        "gmv_change": -0.038017537251098736,
+        "sales_sku_count": 33
+      },
+      {
+        "brand": "品牌云川",
+        "gmv": 16878.79,
+        "previous_gmv": 17016.37,
+        "gmv_delta": -137.58,
+        "gmv_change": -0.008085155647179635,
+        "sales_sku_count": 14
+      },
+      {
+        "brand": "品牌明澈",
+        "gmv": 87864.99,
+        "previous_gmv": 95634.65,
+        "gmv_delta": -7769.66,
+        "gmv_change": -0.08124314775031842,
+        "sales_sku_count": 16
+      }
+    ],
+    "rows": [
+      {
+        "sku": "DEMO-0001",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 001 · 10mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0002",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 002 · 20mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 892.19,
+          "visitors": null,
+          "buyers": 14,
+          "conversion": null,
+          "aov": 63.72785714285715
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1144.89,
+          "visitors": 46,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": -252.7,
+        "gmv_change": -0.22071989448768006,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0003",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 003 · 30mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0004",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 004 · 40mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 18901.35,
+          "visitors": 2030,
+          "buyers": 371,
+          "conversion": 0.18275862068965518,
+          "aov": 50.94703504043126
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 15963.59,
+          "visitors": 2024,
+          "buyers": 294,
+          "conversion": 0.14525691699604742,
+          "aov": 54.29792517006803
+        },
+        "comparison_available": true,
+        "gmv_delta": 2937.76,
+        "gmv_change": 0.18402878049361068,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0005",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 005 · 10mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 21726.19,
+          "visitors": 3111,
+          "buyers": 560,
+          "conversion": 0.1800064288010286,
+          "aov": 38.796767857142854
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 19345.47,
+          "visitors": 2778,
+          "buyers": 476,
+          "conversion": 0.17134629229661627,
+          "aov": 40.641743697478994
+        },
+        "comparison_available": true,
+        "gmv_delta": 2380.72,
+        "gmv_change": 0.12306343552263126,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0006",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 006 · 20mg × 21片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0007",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 007 · 30mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1519.46,
+          "visitors": 138,
+          "buyers": 55,
+          "conversion": 0.39855072463768115,
+          "aov": 27.626545454545454
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1979.59,
+          "visitors": 157,
+          "buyers": 59,
+          "conversion": 0.37579617834394907,
+          "aov": 33.55237288135593
+        },
+        "comparison_available": true,
+        "gmv_delta": -460.13,
+        "gmv_change": -0.23243701978692552,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0008",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 008 · 40mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0009",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 009 · 10mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0010",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 010 · 20mg × 7片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0011",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 011 · 30mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 5999.98,
+          "visitors": 736,
+          "buyers": 148,
+          "conversion": 0.20108695652173914,
+          "aov": 40.5404054054054
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 8419.68,
+          "visitors": 714,
+          "buyers": 181,
+          "conversion": 0.2535014005602241,
+          "aov": 46.51756906077348
+        },
+        "comparison_available": true,
+        "gmv_delta": -2419.7,
+        "gmv_change": -0.28738621895368954,
+        "risk": true,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0012",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 012 · 40mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 3826.18,
+          "visitors": 486,
+          "buyers": 86,
+          "conversion": 0.17695473251028807,
+          "aov": 44.49046511627907
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 5465.21,
+          "visitors": 580,
+          "buyers": 120,
+          "conversion": 0.20689655172413793,
+          "aov": 45.543416666666666
+        },
+        "comparison_available": true,
+        "gmv_delta": -1639.03,
+        "gmv_change": -0.2999024740128925,
+        "risk": true,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0013",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 013 · 10mg × 7片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0014",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 014 · 20mg × 14片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0015",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 015 · 30mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0016",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 016 · 40mg × 7片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0017",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 017 · 10mg × 14片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0018",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 018 · 20mg × 21片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0019",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 019 · 30mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 2300.74,
+          "visitors": 129,
+          "buyers": 24,
+          "conversion": 0.18604651162790697,
+          "aov": 95.86416666666666
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 3002.15,
+          "visitors": 236,
+          "buyers": 37,
+          "conversion": 0.15677966101694915,
+          "aov": 81.1391891891892
+        },
+        "comparison_available": true,
+        "gmv_delta": -701.41,
+        "gmv_change": -0.23363589427576914,
+        "risk": true,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0020",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 020 · 40mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 123.9,
+          "visitors": 12,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 173.07,
+          "visitors": 11,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": -49.17,
+        "gmv_change": -0.28410469752123413,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0021",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 021 · 10mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 60592.17,
+          "visitors": 3762,
+          "buyers": 802,
+          "conversion": 0.2131844763423711,
+          "aov": 75.55133416458852
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 61466.03,
+          "visitors": 3913,
+          "buyers": 805,
+          "conversion": 0.20572450805008943,
+          "aov": 76.35531677018633
+        },
+        "comparison_available": true,
+        "gmv_delta": -873.86,
+        "gmv_change": -0.014216958537911113,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0022",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 022 · 20mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 2496.9,
+          "visitors": 183,
+          "buyers": 35,
+          "conversion": 0.1912568306010929,
+          "aov": 71.34
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1321.55,
+          "visitors": 183,
+          "buyers": 19,
+          "conversion": 0.10382513661202186,
+          "aov": 69.55526315789473
+        },
+        "comparison_available": true,
+        "gmv_delta": 1175.35,
+        "gmv_change": 0.8893723279482427,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0023",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 023 · 30mg × 14片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0024",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 024 · 40mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0025",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 025 · 10mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0026",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 026 · 20mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1129.62,
+          "visitors": 177,
+          "buyers": 32,
+          "conversion": 0.1807909604519774,
+          "aov": 35.300625
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 727.18,
+          "visitors": 139,
+          "buyers": 20,
+          "conversion": 0.14388489208633093,
+          "aov": 36.358999999999995
+        },
+        "comparison_available": true,
+        "gmv_delta": 402.44,
+        "gmv_change": 0.5534255617591243,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0027",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 027 · 30mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 18,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 17,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0028",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 028 · 40mg × 7片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0029",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 029 · 10mg × 14片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0030",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 030 · 20mg × 21片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0031",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 031 · 30mg × 7片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0032",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 032 · 40mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0033",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 033 · 10mg × 21片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0034",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 034 · 20mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 170,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 207,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0035",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 035 · 30mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 97,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 76,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0036",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 036 · 40mg × 21片",
+        "current": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 18,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 5
+      },
+      {
+        "sku": "DEMO-0037",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 037 · 10mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 17,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0038",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 038 · 20mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 27,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 19,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0039",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 039 · 30mg × 21片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0040",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 040 · 40mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 11944.2,
+          "visitors": 646,
+          "buyers": 122,
+          "conversion": 0.18885448916408668,
+          "aov": 97.9032786885246
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 13307.24,
+          "visitors": 750,
+          "buyers": 132,
+          "conversion": 0.176,
+          "aov": 100.81242424242424
+        },
+        "comparison_available": true,
+        "gmv_delta": -1363.04,
+        "gmv_change": -0.10242845248150624,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0041",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 041 · 10mg × 14片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0042",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 042 · 20mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0043",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 043 · 30mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0044",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 044 · 40mg × 14片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0045",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 045 · 10mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0046",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 046 · 20mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 57934.83,
+          "visitors": 3339,
+          "buyers": 583,
+          "conversion": 0.1746031746031746,
+          "aov": 99.37363636363636
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 57896.54,
+          "visitors": 3011,
+          "buyers": 597,
+          "conversion": 0.19827299900365328,
+          "aov": 96.97912897822445
+        },
+        "comparison_available": true,
+        "gmv_delta": 38.29,
+        "gmv_change": 0.0006613521291600651,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0047",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 047 · 30mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0048",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 048 · 40mg × 21片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0049",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 049 · 10mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 2143.07,
+          "visitors": 175,
+          "buyers": 33,
+          "conversion": 0.18857142857142858,
+          "aov": 64.94151515151516
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1485.24,
+          "visitors": 154,
+          "buyers": 28,
+          "conversion": 0.18181818181818182,
+          "aov": 53.044285714285714
+        },
+        "comparison_available": true,
+        "gmv_delta": 657.83,
+        "gmv_change": 0.4429115833131347,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0050",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 050 · 20mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0051",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 051 · 30mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1364.56,
+          "visitors": 170,
+          "buyers": 37,
+          "conversion": 0.21764705882352942,
+          "aov": 36.879999999999995
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1766.31,
+          "visitors": 246,
+          "buyers": 49,
+          "conversion": 0.1991869918699187,
+          "aov": 36.04714285714286
+        },
+        "comparison_available": true,
+        "gmv_delta": -401.75,
+        "gmv_change": -0.2274515798472522,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0052",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 052 · 40mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0053",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 053 · 10mg × 14片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 8,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0054",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 054 · 20mg × 21片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0055",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 055 · 30mg × 7片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0056",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 056 · 40mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0057",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 057 · 10mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0058",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 058 · 20mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0059",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 059 · 30mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0060",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 060 · 40mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0061",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 061 · 10mg × 7片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0062",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 062 · 20mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0063",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 063 · 30mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0064",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 064 · 40mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 541.21,
+          "visitors": 86,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 746.69,
+          "visitors": 93,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": -205.48,
+        "gmv_change": -0.27518782895177385,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0065",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 065 · 10mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0066",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 066 · 20mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1210.51,
+          "visitors": 340,
+          "buyers": 27,
+          "conversion": 0.07941176470588235,
+          "aov": 44.833703703703705
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1441.31,
+          "visitors": 459,
+          "buyers": 32,
+          "conversion": 0.06971677559912855,
+          "aov": 45.0409375
+        },
+        "comparison_available": true,
+        "gmv_delta": -230.8,
+        "gmv_change": -0.1601321020460553,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0067",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 067 · 30mg × 7片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0068",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 068 · 40mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0069",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 069 · 10mg × 21片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0070",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 070 · 20mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0071",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 071 · 30mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0072",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 072 · 40mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0073",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 073 · 10mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1021.32,
+          "visitors": 295,
+          "buyers": 28,
+          "conversion": 0.09491525423728814,
+          "aov": 36.47571428571429
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1494.41,
+          "visitors": 324,
+          "buyers": 39,
+          "conversion": 0.12037037037037036,
+          "aov": 38.31820512820513
+        },
+        "comparison_available": true,
+        "gmv_delta": -473.09,
+        "gmv_change": -0.31657309573677905,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0074",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 074 · 20mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0075",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 075 · 30mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 6413.25,
+          "visitors": 770,
+          "buyers": 124,
+          "conversion": 0.16103896103896104,
+          "aov": 51.71975806451613
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 7697.53,
+          "visitors": 967,
+          "buyers": 161,
+          "conversion": 0.16649431230610134,
+          "aov": 47.810745341614904
+        },
+        "comparison_available": true,
+        "gmv_delta": -1284.28,
+        "gmv_change": -0.16684313019890792,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0076",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 076 · 40mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1108.33,
+          "visitors": 83,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1193.56,
+          "visitors": 113,
+          "buyers": 12,
+          "conversion": 0.10619469026548672,
+          "aov": 99.46333333333332
+        },
+        "comparison_available": true,
+        "gmv_delta": -85.23,
+        "gmv_change": -0.07140822413619761,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0077",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 077 · 10mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 2852.86,
+          "visitors": 454,
+          "buyers": 83,
+          "conversion": 0.1828193832599119,
+          "aov": 34.371807228915664
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 3543.82,
+          "visitors": 483,
+          "buyers": 102,
+          "conversion": 0.2111801242236025,
+          "aov": 34.74333333333333
+        },
+        "comparison_available": true,
+        "gmv_delta": -690.96,
+        "gmv_change": -0.19497604280127095,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0078",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 078 · 20mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 4854.34,
+          "visitors": 1213,
+          "buyers": 264,
+          "conversion": 0.21764220939818632,
+          "aov": 18.387651515151514
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 5200.38,
+          "visitors": 1283,
+          "buyers": 275,
+          "conversion": 0.21434138737334374,
+          "aov": 18.910472727272726
+        },
+        "comparison_available": true,
+        "gmv_delta": -346.04,
+        "gmv_change": -0.06654129121333441,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0079",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 079 · 30mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 35,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 49,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0080",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 080 · 40mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1175.2,
+          "visitors": 87,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1269.74,
+          "visitors": 112,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": -94.54,
+        "gmv_change": -0.07445618788098347,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0081",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 081 · 10mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0082",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 082 · 20mg × 7片",
+        "current": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 128.8,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 5
+      },
+      {
+        "sku": "DEMO-0083",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 083 · 30mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 527.49,
+          "visitors": 79,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 642.59,
+          "visitors": 92,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": -115.1,
+        "gmv_change": -0.17911887828942252,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0084",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 084 · 40mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 11858.87,
+          "visitors": 1370,
+          "buyers": 168,
+          "conversion": 0.12262773722627737,
+          "aov": 70.58851190476192
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 14069.18,
+          "visitors": 1888,
+          "buyers": 211,
+          "conversion": 0.11175847457627118,
+          "aov": 66.67857819905214
+        },
+        "comparison_available": true,
+        "gmv_delta": -2210.31,
+        "gmv_change": -0.15710297259683928,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0085",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 085 · 10mg × 7片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0086",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 086 · 20mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 13765.89,
+          "visitors": 1308,
+          "buyers": 144,
+          "conversion": 0.11009174311926606,
+          "aov": 95.59645833333333
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 18172.12,
+          "visitors": 1558,
+          "buyers": 187,
+          "conversion": 0.12002567394094994,
+          "aov": 97.17711229946524
+        },
+        "comparison_available": true,
+        "gmv_delta": -4406.23,
+        "gmv_change": -0.24247198455656246,
+        "risk": true,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0087",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 087 · 30mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 303.9,
+          "visitors": 221,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 387.17,
+          "visitors": 198,
+          "buyers": 25,
+          "conversion": 0.12626262626262627,
+          "aov": 15.4868
+        },
+        "comparison_available": true,
+        "gmv_delta": -83.27,
+        "gmv_change": -0.2150734819330011,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0088",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 088 · 40mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 237.44,
+          "visitors": 118,
+          "buyers": 15,
+          "conversion": 0.1271186440677966,
+          "aov": 15.829333333333333
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 244.22,
+          "visitors": 124,
+          "buyers": 17,
+          "conversion": 0.13709677419354838,
+          "aov": 14.365882352941176
+        },
+        "comparison_available": true,
+        "gmv_delta": -6.78,
+        "gmv_change": -0.027761854066006064,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0089",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 089 · 10mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 154,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 180,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0090",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 090 · 20mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 988.61,
+          "visitors": 88,
+          "buyers": 17,
+          "conversion": 0.19318181818181818,
+          "aov": 58.15352941176471
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1782.24,
+          "visitors": 111,
+          "buyers": 32,
+          "conversion": 0.2882882882882883,
+          "aov": 55.695
+        },
+        "comparison_available": true,
+        "gmv_delta": -793.63,
+        "gmv_change": -0.44529917407307656,
+        "risk": true,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0091",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 091 · 30mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 6709.96,
+          "visitors": 587,
+          "buyers": 76,
+          "conversion": 0.12947189097103917,
+          "aov": 88.28894736842105
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 7222.63,
+          "visitors": 687,
+          "buyers": 85,
+          "conversion": 0.12372634643377002,
+          "aov": 84.97211764705882
+        },
+        "comparison_available": true,
+        "gmv_delta": -512.67,
+        "gmv_change": -0.07098106922270697,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0092",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 092 · 40mg × 14片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0093",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 093 · 10mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1049.44,
+          "visitors": 165,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 570.66,
+          "visitors": 132,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 478.78,
+        "gmv_change": 0.8389934461851192,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0094",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 094 · 20mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 366.53,
+          "visitors": 125,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 336.03,
+          "visitors": 113,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 30.5,
+        "gmv_change": 0.09076570544296642,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0095",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 095 · 30mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 3545.36,
+          "visitors": 492,
+          "buyers": 79,
+          "conversion": 0.16056910569105692,
+          "aov": 44.8779746835443
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1803.59,
+          "visitors": 396,
+          "buyers": 36,
+          "conversion": 0.09090909090909091,
+          "aov": 50.09972222222222
+        },
+        "comparison_available": true,
+        "gmv_delta": 1741.77,
+        "gmv_change": 0.9657239172982774,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0096",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 096 · 40mg × 21片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0097",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 097 · 10mg × 7片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0098",
+        "brand": "品牌青禾",
+        "product": "品牌青禾 · 药品示例 098 · 20mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0099",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 099 · 30mg × 21片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0100",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 100 · 40mg × 7片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0101",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 101 · 10mg × 14片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0102",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 102 · 20mg × 21片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 45,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0103",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 103 · 30mg × 7片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0104",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 104 · 40mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0105",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 105 · 10mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 172.1,
+          "visitors": 64,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 232.97,
+          "visitors": 52,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": -60.87,
+        "gmv_change": -0.26127827617289784,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0106",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 106 · 20mg × 7片",
+        "current": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 5
+      },
+      {
+        "sku": "DEMO-0107",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 107 · 30mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0108",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 108 · 40mg × 21片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0109",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 109 · 10mg × 7片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0110",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 110 · 20mg × 14片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0111",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 111 · 30mg × 21片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0112",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 112 · 40mg × 7片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0113",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 113 · 10mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 237.34,
+          "visitors": 147,
+          "buyers": 12,
+          "conversion": 0.08163265306122448,
+          "aov": 19.778333333333332
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 398.27,
+          "visitors": 152,
+          "buyers": 21,
+          "conversion": 0.13815789473684212,
+          "aov": 18.965238095238096
+        },
+        "comparison_available": true,
+        "gmv_delta": -160.93,
+        "gmv_change": -0.40407261405579126,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0114",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 114 · 20mg × 21片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0115",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 115 · 30mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0116",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 116 · 40mg × 14片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 189.47,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0117",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 117 · 10mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 322.7,
+          "visitors": 40,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 270.42,
+          "visitors": 35,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 52.28,
+        "gmv_change": 0.19332889579173126,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0118",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 118 · 20mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0119",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 119 · 30mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0120",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 120 · 40mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 9220.66,
+          "visitors": 2326,
+          "buyers": 288,
+          "conversion": 0.12381771281169389,
+          "aov": 32.01618055555556
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 10108.78,
+          "visitors": 2391,
+          "buyers": 305,
+          "conversion": 0.1275616896695943,
+          "aov": 33.143540983606556
+        },
+        "comparison_available": true,
+        "gmv_delta": -888.12,
+        "gmv_change": -0.08785629917754673,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0121",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 121 · 10mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 801.09,
+          "visitors": 168,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 688.26,
+          "visitors": 169,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 112.83,
+        "gmv_change": 0.16393514078981786,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0122",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 122 · 20mg × 14片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 35,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0123",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 123 · 30mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0124",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 124 · 40mg × 7片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0125",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 125 · 10mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0126",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 126 · 20mg × 21片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0127",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 127 · 30mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 513.47,
+          "visitors": 123,
+          "buyers": 15,
+          "conversion": 0.12195121951219512,
+          "aov": 34.23133333333333
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 684.07,
+          "visitors": 150,
+          "buyers": 19,
+          "conversion": 0.12666666666666668,
+          "aov": 36.003684210526316
+        },
+        "comparison_available": true,
+        "gmv_delta": -170.6,
+        "gmv_change": -0.24938968234245035,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0128",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 128 · 40mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0129",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 129 · 10mg × 21片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0130",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 130 · 20mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0131",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 131 · 30mg × 14片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0132",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 132 · 40mg × 21片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0133",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 133 · 10mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0134",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 134 · 20mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0135",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 135 · 30mg × 21片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0136",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 136 · 40mg × 7片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0137",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 137 · 10mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 27,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 30,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0138",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 138 · 20mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 2621.06,
+          "visitors": 406,
+          "buyers": 65,
+          "conversion": 0.16009852216748768,
+          "aov": 40.324
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1951.09,
+          "visitors": 365,
+          "buyers": 43,
+          "conversion": 0.1178082191780822,
+          "aov": 45.374186046511625
+        },
+        "comparison_available": true,
+        "gmv_delta": 669.97,
+        "gmv_change": 0.34338241700792893,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0139",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 139 · 30mg × 7片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0140",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 140 · 40mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0141",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 141 · 10mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0142",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 142 · 20mg × 7片",
+        "current": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 5
+      },
+      {
+        "sku": "DEMO-0143",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 143 · 30mg × 14片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0144",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 144 · 40mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 93.8,
+          "visitors": 33,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 40.24,
+          "visitors": 28,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 53.56,
+        "gmv_change": 1.3310139165009938,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0145",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 145 · 10mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0146",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 146 · 20mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0147",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 147 · 30mg × 21片",
+        "current": {
+          "days": 3,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 3
+      },
+      {
+        "sku": "DEMO-0148",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 148 · 40mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 129,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 151,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0149",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 149 · 10mg × 14片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0150",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 150 · 20mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0151",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 151 · 30mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0152",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 152 · 40mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0153",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 153 · 10mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0154",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 154 · 20mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 178.6,
+          "visitors": 69,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 364.7,
+          "visitors": 113,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": -186.1,
+        "gmv_change": -0.5102824239100631,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0155",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 155 · 30mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0156",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 156 · 40mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0157",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 157 · 10mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0158",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 158 · 20mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0159",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 159 · 30mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0160",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 160 · 40mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0161",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 161 · 10mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0162",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 162 · 20mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0163",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 163 · 30mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0164",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 164 · 40mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1713.19,
+          "visitors": 135,
+          "buyers": 25,
+          "conversion": 0.18518518518518517,
+          "aov": 68.5276
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1428.21,
+          "visitors": 135,
+          "buyers": 29,
+          "conversion": 0.21481481481481482,
+          "aov": 49.248620689655176
+        },
+        "comparison_available": true,
+        "gmv_delta": 284.98,
+        "gmv_change": 0.19953648273013072,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0165",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 165 · 10mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 24.52,
+          "visitors": 16,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 24.52,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0166",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 166 · 20mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 28,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 20,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0167",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 167 · 30mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 14,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 22,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0168",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 168 · 40mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 14,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0169",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 169 · 10mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 26.53,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 26.53,
+          "visitors": 23,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": 0.0,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0170",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 170 · 20mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0171",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 171 · 30mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0172",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 172 · 40mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0173",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 173 · 10mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0174",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 174 · 20mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 285.79,
+          "visitors": 65,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 110.18,
+          "visitors": 40,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 175.61,
+        "gmv_change": 1.5938464331094573,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0175",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 175 · 30mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 341.94,
+          "visitors": 139,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 228.83,
+          "visitors": 123,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 113.11,
+        "gmv_change": 0.4942970764322859,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0176",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 176 · 40mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0177",
+        "brand": "品牌云川",
+        "product": "品牌云川 · 药品示例 177 · 10mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0178",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 178 · 20mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 11282.34,
+          "visitors": 2207,
+          "buyers": 476,
+          "conversion": 0.21567739012233803,
+          "aov": 23.702394957983195
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 12541.56,
+          "visitors": 2396,
+          "buyers": 541,
+          "conversion": 0.22579298831385644,
+          "aov": 23.182181146025876
+        },
+        "comparison_available": true,
+        "gmv_delta": -1259.22,
+        "gmv_change": -0.1004037775204998,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0179",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 179 · 30mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 40589.08,
+          "visitors": 11279,
+          "buyers": 1180,
+          "conversion": 0.10461920383012678,
+          "aov": 34.397525423728815
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 47192.28,
+          "visitors": 11676,
+          "buyers": 1373,
+          "conversion": 0.11759164097293594,
+          "aov": 34.37165331391114
+        },
+        "comparison_available": true,
+        "gmv_delta": -6603.2,
+        "gmv_change": -0.13992119049980203,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0180",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 180 · 40mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1957.49,
+          "visitors": 336,
+          "buyers": 42,
+          "conversion": 0.125,
+          "aov": 46.606904761904765
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 2054.47,
+          "visitors": 363,
+          "buyers": 41,
+          "conversion": 0.11294765840220386,
+          "aov": 50.109024390243896
+        },
+        "comparison_available": true,
+        "gmv_delta": -96.98,
+        "gmv_change": -0.047204388479753806,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0181",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 181 · 10mg × 7片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0182",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 182 · 20mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0183",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 183 · 30mg × 21片",
+        "current": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 1
+      },
+      {
+        "sku": "DEMO-0184",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 184 · 40mg × 7片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0185",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 185 · 10mg × 14片",
+        "current": {
+          "days": 4,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 5,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 4
+      },
+      {
+        "sku": "DEMO-0186",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 186 · 20mg × 21片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0187",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 187 · 30mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0188",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 188 · 40mg × 14片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      },
+      {
+        "sku": "DEMO-0189",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 189 · 10mg × 21片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0190",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 190 · 20mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 4847.97,
+          "visitors": 1573,
+          "buyers": 200,
+          "conversion": 0.12714558169103624,
+          "aov": 24.23985
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 5474.62,
+          "visitors": 2385,
+          "buyers": 279,
+          "conversion": 0.1169811320754717,
+          "aov": 19.622293906810036
+        },
+        "comparison_available": true,
+        "gmv_delta": -626.65,
+        "gmv_change": -0.11446456557715415,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0191",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 191 · 30mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1164.05,
+          "visitors": 183,
+          "buyers": 35,
+          "conversion": 0.1912568306010929,
+          "aov": 33.25857142857143
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1070.46,
+          "visitors": 130,
+          "buyers": 28,
+          "conversion": 0.2153846153846154,
+          "aov": 38.230714285714285
+        },
+        "comparison_available": true,
+        "gmv_delta": 93.59,
+        "gmv_change": 0.08742970311828552,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0192",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 192 · 40mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 141.85,
+          "visitors": 95,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 132.79,
+          "visitors": 116,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 9.06,
+        "gmv_change": 0.06822802921906772,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0193",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 193 · 10mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 7385.66,
+          "visitors": 2224,
+          "buyers": 364,
+          "conversion": 0.16366906474820145,
+          "aov": 20.290274725274724
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 8703.57,
+          "visitors": 3114,
+          "buyers": 427,
+          "conversion": 0.13712267180475274,
+          "aov": 20.383067915690866
+        },
+        "comparison_available": true,
+        "gmv_delta": -1317.91,
+        "gmv_change": -0.15142177290468162,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0194",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 194 · 20mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 112.65,
+          "visitors": 145,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 131.32,
+          "visitors": 97,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": -18.67,
+        "gmv_change": -0.14217179409077055,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0195",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 195 · 30mg × 21片",
+        "current": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 2,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 2
+      },
+      {
+        "sku": "DEMO-0196",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 196 · 40mg × 7片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0197",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 197 · 10mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 862.77,
+          "visitors": 83,
+          "buyers": 24,
+          "conversion": 0.2891566265060241,
+          "aov": 35.94875
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1081.93,
+          "visitors": 48,
+          "buyers": 25,
+          "conversion": 0.5208333333333334,
+          "aov": 43.2772
+        },
+        "comparison_available": true,
+        "gmv_delta": -219.16,
+        "gmv_change": -0.20256393666873093,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0198",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 198 · 20mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 322.78,
+          "visitors": 267,
+          "buyers": 23,
+          "conversion": 0.08614232209737828,
+          "aov": 14.03391304347826
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 338.82,
+          "visitors": 308,
+          "buyers": 26,
+          "conversion": 0.08441558441558442,
+          "aov": 13.031538461538462
+        },
+        "comparison_available": true,
+        "gmv_delta": -16.04,
+        "gmv_change": -0.04734077091080816,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0199",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 199 · 30mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 490.48,
+          "visitors": 775,
+          "buyers": 71,
+          "conversion": 0.09161290322580645,
+          "aov": 6.908169014084507
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 257.06,
+          "visitors": 433,
+          "buyers": 29,
+          "conversion": 0.06697459584295612,
+          "aov": 8.864137931034483
+        },
+        "comparison_available": true,
+        "gmv_delta": 233.42,
+        "gmv_change": 0.9080370341554501,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0200",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 200 · 40mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 170.53,
+          "visitors": 190,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 278.78,
+          "visitors": 138,
+          "buyers": 19,
+          "conversion": 0.13768115942028986,
+          "aov": 14.672631578947367
+        },
+        "comparison_available": true,
+        "gmv_delta": -108.25,
+        "gmv_change": -0.3882990171461367,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0201",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 201 · 10mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 6417.33,
+          "visitors": 1127,
+          "buyers": 137,
+          "conversion": 0.12156166814551908,
+          "aov": 46.841824817518244
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 6081.64,
+          "visitors": 1042,
+          "buyers": 139,
+          "conversion": 0.13339731285988485,
+          "aov": 43.752805755395684
+        },
+        "comparison_available": true,
+        "gmv_delta": 335.69,
+        "gmv_change": 0.05519728231200788,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0202",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 202 · 20mg × 7片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1469.05,
+          "visitors": 292,
+          "buyers": 68,
+          "conversion": 0.2328767123287671,
+          "aov": 21.603676470588233
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1431.6,
+          "visitors": 319,
+          "buyers": 61,
+          "conversion": 0.19122257053291536,
+          "aov": 23.468852459016393
+        },
+        "comparison_available": true,
+        "gmv_delta": 37.45,
+        "gmv_change": 0.02615954177144457,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0203",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 203 · 30mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 8843.56,
+          "visitors": 405,
+          "buyers": 135,
+          "conversion": 0.3333333333333333,
+          "aov": 65.50785185185185
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 7608.61,
+          "visitors": 442,
+          "buyers": 124,
+          "conversion": 0.28054298642533937,
+          "aov": 61.35975806451613
+        },
+        "comparison_available": true,
+        "gmv_delta": 1234.95,
+        "gmv_change": 0.1623095414274092,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0204",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 204 · 40mg × 21片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0205",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 205 · 10mg × 7片",
+        "current": {
+          "days": 6,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 6
+      },
+      {
+        "sku": "DEMO-0206",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 206 · 20mg × 14片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 13,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 0.0,
+          "visitors": 13,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": true,
+        "gmv_delta": 0.0,
+        "gmv_change": null,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0207",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 207 · 30mg × 21片",
+        "current": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1807.4,
+          "visitors": 239,
+          "buyers": 29,
+          "conversion": 0.12133891213389121,
+          "aov": 62.324137931034485
+        },
+        "previous": {
+          "days": 7,
+          "expected_days": null,
+          "gmv": 1255.14,
+          "visitors": 241,
+          "buyers": 24,
+          "conversion": 0.0995850622406639,
+          "aov": 52.29750000000001
+        },
+        "comparison_available": true,
+        "gmv_delta": 552.26,
+        "gmv_change": 0.43999872524180567,
+        "risk": false,
+        "days": 7
+      },
+      {
+        "sku": "DEMO-0208",
+        "brand": "品牌明澈",
+        "product": "品牌明澈 · 药品示例 208 · 40mg × 7片",
+        "current": {
+          "days": 0,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "previous": {
+          "days": 1,
+          "expected_days": null,
+          "gmv": null,
+          "visitors": null,
+          "buyers": null,
+          "conversion": null,
+          "aov": null
+        },
+        "comparison_available": false,
+        "gmv_delta": null,
+        "gmv_change": null,
+        "risk": false,
+        "days": 0
+      }
+    ],
+    "trend": [
+      {
+        "date": "2026-06-14",
+        "value": 49468.21
+      },
+      {
+        "date": "2026-06-15",
+        "value": 55844.77
+      },
+      {
+        "date": "2026-06-16",
+        "value": 52300.69
+      },
+      {
+        "date": "2026-06-17",
+        "value": 55796.22
+      },
+      {
+        "date": "2026-06-18",
+        "value": 49117.6
+      },
+      {
+        "date": "2026-06-19",
+        "value": 43951.95
+      },
+      {
+        "date": "2026-06-20",
+        "value": 49736.57
+      }
+    ],
+    "options": {
+      "brands": [
+        "品牌青禾",
+        "品牌云川",
+        "品牌明澈"
+      ],
+      "skus": [
+        {
+          "sku": "DEMO-0001",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 001 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0002",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 002 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0003",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 003 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0004",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 004 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0005",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 005 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0006",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 006 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0007",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 007 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0008",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 008 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0009",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 009 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0010",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 010 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0011",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 011 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0012",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 012 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0013",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 013 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0014",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 014 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0015",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 015 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0016",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 016 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0017",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 017 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0018",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 018 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0019",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 019 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0020",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 020 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0021",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 021 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0022",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 022 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0023",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 023 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0024",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 024 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0025",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 025 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0026",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 026 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0027",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 027 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0028",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 028 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0029",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 029 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0030",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 030 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0031",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 031 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0032",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 032 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0033",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 033 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0034",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 034 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0035",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 035 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0036",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 036 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0037",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 037 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0038",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 038 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0039",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 039 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0040",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 040 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0041",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 041 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0042",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 042 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0043",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 043 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0044",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 044 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0045",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 045 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0046",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 046 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0047",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 047 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0048",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 048 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0049",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 049 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0050",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 050 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0051",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 051 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0052",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 052 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0053",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 053 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0054",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 054 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0055",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 055 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0056",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 056 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0057",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 057 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0058",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 058 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0059",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 059 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0060",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 060 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0061",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 061 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0062",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 062 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0063",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 063 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0064",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 064 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0065",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 065 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0066",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 066 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0067",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 067 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0068",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 068 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0069",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 069 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0070",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 070 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0071",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 071 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0072",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 072 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0073",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 073 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0074",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 074 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0075",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 075 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0076",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 076 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0077",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 077 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0078",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 078 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0079",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 079 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0080",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 080 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0081",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 081 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0082",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 082 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0083",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 083 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0084",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 084 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0085",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 085 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0086",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 086 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0087",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 087 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0088",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 088 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0089",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 089 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0090",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 090 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0091",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 091 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0092",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 092 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0093",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 093 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0094",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 094 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0095",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 095 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0096",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 096 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0097",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 097 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0098",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 098 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0099",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 099 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0100",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 100 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0101",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 101 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0102",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 102 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0103",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 103 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0104",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 104 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0105",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 105 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0106",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 106 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0107",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 107 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0108",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 108 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0109",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 109 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0110",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 110 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0111",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 111 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0112",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 112 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0113",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 113 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0114",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 114 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0115",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 115 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0116",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 116 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0117",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 117 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0118",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 118 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0119",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 119 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0120",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 120 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0121",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 121 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0122",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 122 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0123",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 123 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0124",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 124 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0125",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 125 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0126",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 126 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0127",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 127 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0128",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 128 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0129",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 129 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0130",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 130 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0131",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 131 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0132",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 132 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0133",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 133 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0134",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 134 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0135",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 135 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0136",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 136 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0137",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 137 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0138",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 138 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0139",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 139 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0140",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 140 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0141",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 141 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0142",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 142 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0143",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 143 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0144",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 144 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0145",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 145 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0146",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 146 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0147",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 147 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0148",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 148 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0149",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 149 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0150",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 150 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0151",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 151 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0152",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 152 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0153",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 153 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0154",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 154 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0155",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 155 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0156",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 156 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0157",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 157 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0158",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 158 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0159",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 159 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0160",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 160 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0161",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 161 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0162",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 162 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0163",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 163 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0164",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 164 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0165",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 165 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0166",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 166 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0167",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 167 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0168",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 168 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0169",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 169 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0170",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 170 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0171",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 171 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0172",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 172 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0173",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 173 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0174",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 174 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0175",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 175 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0176",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 176 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0177",
+          "brand": "品牌云川",
+          "product": "品牌云川 · 药品示例 177 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0178",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 178 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0179",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 179 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0180",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 180 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0181",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 181 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0182",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 182 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0183",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 183 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0184",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 184 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0185",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 185 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0186",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 186 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0187",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 187 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0188",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 188 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0189",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 189 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0190",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 190 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0191",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 191 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0192",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 192 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0193",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 193 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0194",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 194 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0195",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 195 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0196",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 196 · 40mg × 7片"
+        },
+        {
+          "sku": "DEMO-0197",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 197 · 10mg × 14片"
+        },
+        {
+          "sku": "DEMO-0198",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 198 · 20mg × 21片"
+        },
+        {
+          "sku": "DEMO-0199",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 199 · 30mg × 7片"
+        },
+        {
+          "sku": "DEMO-0200",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 200 · 40mg × 14片"
+        },
+        {
+          "sku": "DEMO-0201",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 201 · 10mg × 21片"
+        },
+        {
+          "sku": "DEMO-0202",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 202 · 20mg × 7片"
+        },
+        {
+          "sku": "DEMO-0203",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 203 · 30mg × 14片"
+        },
+        {
+          "sku": "DEMO-0204",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 204 · 40mg × 21片"
+        },
+        {
+          "sku": "DEMO-0205",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 205 · 10mg × 7片"
+        },
+        {
+          "sku": "DEMO-0206",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 206 · 20mg × 14片"
+        },
+        {
+          "sku": "DEMO-0207",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 207 · 30mg × 21片"
+        },
+        {
+          "sku": "DEMO-0208",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 208 · 40mg × 7片"
+        }
+      ],
+      "periods": [
+        {
+          "value": "7d",
+          "label": "最近 7 天",
+          "complete": true,
+          "start": "2026-06-14",
+          "end": "2026-06-20"
+        }
+      ]
+    },
+    "focus": {
+      "risks": [
+        {
+          "sku": "DEMO-0011",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 011 · 30mg × 14片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 5999.98,
+            "visitors": 736,
+            "buyers": 148,
+            "conversion": 0.20108695652173914,
+            "aov": 40.5404054054054
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 8419.68,
+            "visitors": 714,
+            "buyers": 181,
+            "conversion": 0.2535014005602241,
+            "aov": 46.51756906077348
+          },
+          "comparison_available": true,
+          "gmv_delta": -2419.7,
+          "gmv_change": -0.28738621895368954,
+          "risk": true,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0012",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 012 · 40mg × 21片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 3826.18,
+            "visitors": 486,
+            "buyers": 86,
+            "conversion": 0.17695473251028807,
+            "aov": 44.49046511627907
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 5465.21,
+            "visitors": 580,
+            "buyers": 120,
+            "conversion": 0.20689655172413793,
+            "aov": 45.543416666666666
+          },
+          "comparison_available": true,
+          "gmv_delta": -1639.03,
+          "gmv_change": -0.2999024740128925,
+          "risk": true,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0019",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 019 · 30mg × 7片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 2300.74,
+            "visitors": 129,
+            "buyers": 24,
+            "conversion": 0.18604651162790697,
+            "aov": 95.86416666666666
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 3002.15,
+            "visitors": 236,
+            "buyers": 37,
+            "conversion": 0.15677966101694915,
+            "aov": 81.1391891891892
+          },
+          "comparison_available": true,
+          "gmv_delta": -701.41,
+          "gmv_change": -0.23363589427576914,
+          "risk": true,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0086",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 086 · 20mg × 14片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 13765.89,
+            "visitors": 1308,
+            "buyers": 144,
+            "conversion": 0.11009174311926606,
+            "aov": 95.59645833333333
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 18172.12,
+            "visitors": 1558,
+            "buyers": 187,
+            "conversion": 0.12002567394094994,
+            "aov": 97.17711229946524
+          },
+          "comparison_available": true,
+          "gmv_delta": -4406.23,
+          "gmv_change": -0.24247198455656246,
+          "risk": true,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0090",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 090 · 20mg × 21片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 988.61,
+            "visitors": 88,
+            "buyers": 17,
+            "conversion": 0.19318181818181818,
+            "aov": 58.15352941176471
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 1782.24,
+            "visitors": 111,
+            "buyers": 32,
+            "conversion": 0.2882882882882883,
+            "aov": 55.695
+          },
+          "comparison_available": true,
+          "gmv_delta": -793.63,
+          "gmv_change": -0.44529917407307656,
+          "risk": true,
+          "days": 7
+        }
+      ],
+      "rising": [
+        {
+          "sku": "DEMO-0004",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 004 · 40mg × 7片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 18901.35,
+            "visitors": 2030,
+            "buyers": 371,
+            "conversion": 0.18275862068965518,
+            "aov": 50.94703504043126
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 15963.59,
+            "visitors": 2024,
+            "buyers": 294,
+            "conversion": 0.14525691699604742,
+            "aov": 54.29792517006803
+          },
+          "comparison_available": true,
+          "gmv_delta": 2937.76,
+          "gmv_change": 0.18402878049361068,
+          "risk": false,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0005",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 005 · 10mg × 14片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 21726.19,
+            "visitors": 3111,
+            "buyers": 560,
+            "conversion": 0.1800064288010286,
+            "aov": 38.796767857142854
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 19345.47,
+            "visitors": 2778,
+            "buyers": 476,
+            "conversion": 0.17134629229661627,
+            "aov": 40.641743697478994
+          },
+          "comparison_available": true,
+          "gmv_delta": 2380.72,
+          "gmv_change": 0.12306343552263126,
+          "risk": false,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0095",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 095 · 30mg × 14片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 3545.36,
+            "visitors": 492,
+            "buyers": 79,
+            "conversion": 0.16056910569105692,
+            "aov": 44.8779746835443
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 1803.59,
+            "visitors": 396,
+            "buyers": 36,
+            "conversion": 0.09090909090909091,
+            "aov": 50.09972222222222
+          },
+          "comparison_available": true,
+          "gmv_delta": 1741.77,
+          "gmv_change": 0.9657239172982774,
+          "risk": false,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0203",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 203 · 30mg × 14片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 8843.56,
+            "visitors": 405,
+            "buyers": 135,
+            "conversion": 0.3333333333333333,
+            "aov": 65.50785185185185
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 7608.61,
+            "visitors": 442,
+            "buyers": 124,
+            "conversion": 0.28054298642533937,
+            "aov": 61.35975806451613
+          },
+          "comparison_available": true,
+          "gmv_delta": 1234.95,
+          "gmv_change": 0.1623095414274092,
+          "risk": false,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0022",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 022 · 20mg × 7片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 2496.9,
+            "visitors": 183,
+            "buyers": 35,
+            "conversion": 0.1912568306010929,
+            "aov": 71.34
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 1321.55,
+            "visitors": 183,
+            "buyers": 19,
+            "conversion": 0.10382513661202186,
+            "aov": 69.55526315789473
+          },
+          "comparison_available": true,
+          "gmv_delta": 1175.35,
+          "gmv_change": 0.8893723279482427,
+          "risk": false,
+          "days": 7
+        }
+      ],
+      "declining": [
+        {
+          "sku": "DEMO-0179",
+          "brand": "品牌明澈",
+          "product": "品牌明澈 · 药品示例 179 · 30mg × 14片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 40589.08,
+            "visitors": 11279,
+            "buyers": 1180,
+            "conversion": 0.10461920383012678,
+            "aov": 34.397525423728815
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 47192.28,
+            "visitors": 11676,
+            "buyers": 1373,
+            "conversion": 0.11759164097293594,
+            "aov": 34.37165331391114
+          },
+          "comparison_available": true,
+          "gmv_delta": -6603.2,
+          "gmv_change": -0.13992119049980203,
+          "risk": false,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0086",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 086 · 20mg × 14片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 13765.89,
+            "visitors": 1308,
+            "buyers": 144,
+            "conversion": 0.11009174311926606,
+            "aov": 95.59645833333333
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 18172.12,
+            "visitors": 1558,
+            "buyers": 187,
+            "conversion": 0.12002567394094994,
+            "aov": 97.17711229946524
+          },
+          "comparison_available": true,
+          "gmv_delta": -4406.23,
+          "gmv_change": -0.24247198455656246,
+          "risk": true,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0011",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 011 · 30mg × 14片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 5999.98,
+            "visitors": 736,
+            "buyers": 148,
+            "conversion": 0.20108695652173914,
+            "aov": 40.5404054054054
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 8419.68,
+            "visitors": 714,
+            "buyers": 181,
+            "conversion": 0.2535014005602241,
+            "aov": 46.51756906077348
+          },
+          "comparison_available": true,
+          "gmv_delta": -2419.7,
+          "gmv_change": -0.28738621895368954,
+          "risk": true,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0084",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 084 · 40mg × 21片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 11858.87,
+            "visitors": 1370,
+            "buyers": 168,
+            "conversion": 0.12262773722627737,
+            "aov": 70.58851190476192
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 14069.18,
+            "visitors": 1888,
+            "buyers": 211,
+            "conversion": 0.11175847457627118,
+            "aov": 66.67857819905214
+          },
+          "comparison_available": true,
+          "gmv_delta": -2210.31,
+          "gmv_change": -0.15710297259683928,
+          "risk": false,
+          "days": 7
+        },
+        {
+          "sku": "DEMO-0012",
+          "brand": "品牌青禾",
+          "product": "品牌青禾 · 药品示例 012 · 40mg × 21片",
+          "current": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 3826.18,
+            "visitors": 486,
+            "buyers": 86,
+            "conversion": 0.17695473251028807,
+            "aov": 44.49046511627907
+          },
+          "previous": {
+            "days": 7,
+            "expected_days": null,
+            "gmv": 5465.21,
+            "visitors": 580,
+            "buyers": 120,
+            "conversion": 0.20689655172413793,
+            "aov": 45.543416666666666
+          },
+          "comparison_available": true,
+          "gmv_delta": -1639.03,
+          "gmv_change": -0.2999024740128925,
+          "risk": true,
+          "days": 7
+        }
+      ]
+    },
+    "meta": {
+      "version": "demo-851b8f1b6690",
+      "published_at": "2026-06-20T12:00:00+08:00",
+      "current_period": {
+        "complete": true,
+        "end": "2026-06-20",
+        "missing_dates": [],
+        "start": "2026-06-14"
+      },
+      "previous_period": {
+        "complete": true,
+        "end": "2026-06-13",
+        "missing_dates": [],
+        "start": "2026-06-07"
+      },
+      "comparison_available": true,
+      "total_sku_count": 208,
+      "stale": false,
+      "amount_threshold": 500,
+      "change_threshold": -0.2,
+      "trend_note": "脱敏数据，数值与日期均已转换"
+    }
+  }
+}
